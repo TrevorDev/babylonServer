@@ -1,0 +1,6 @@
+dist/
+node_modules/
+bower_components/
+.cache/
+server.js
+public/example.png
