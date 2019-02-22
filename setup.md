@@ -1,6 +1,7 @@
 # get azure vm with nvidia cloud compute image
 # must be GRID compatable
 # https://docs.microsoft.com/en-us/azure/virtual-machines/windows/n-series-driver-setup
+# disable firewall and open port on the vm after remote desktopping in
 
 # run gpu status to ensure driver works
 nvidia-smi -l 2
